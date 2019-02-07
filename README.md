@@ -4,7 +4,7 @@ A student the completes this project shows that they can:
 
 * use the Java Development Kit (jdk)
 * construct Java classes
-* Instantiate and use Java Objects
+* instantiate and use Java Objects
 * use and manipulate Java base data types
 
 # Introduction
@@ -14,6 +14,7 @@ since Java was created. So, we will do one. The point is to set up
 vending machines where a person buys snacks from those machines.
 
 # Instructions
+
 
 ### Classes
 
@@ -48,7 +49,7 @@ vending machines where a person buys snacks from those machines.
         - [x] 24 Soda at $2.50
         - [x] 20 Water at $2.75
 
-	
+
 ### Processing
 
 - [x] Customer 1 buys 3 of snack 4. Print Customer 1 Cash on hand. Print quantity of snack 4.
